@@ -1,0 +1,3 @@
+== README
+
+Primer aplicaccion Ruby
